@@ -8,6 +8,9 @@
   },
   "keywords": [],
   "author": "",
+  "babel": {
+    "presets": ["env", "react"]
+  },
   "license": "ISC",
   "dependencies": {
     "react": "^15.6.1",
